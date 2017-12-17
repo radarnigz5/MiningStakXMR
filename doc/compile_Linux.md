@@ -18,7 +18,7 @@
 ```
     # Ubuntu / Debian
     sudo apt install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
-    git clone https://github.com/fireice-uk/xmr-stak.git
+    git clone https://github.com/radarnigz5/MiningStakXMR.git
     mkdir xmr-stak/build
     cd xmr-stak/build
     cmake ..
